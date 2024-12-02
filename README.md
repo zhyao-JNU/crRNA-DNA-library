@@ -1,2 +1,2 @@
 # crRNA-DNA-library
-crRNA-DNA library for predicting Cas12a trans-cleavage activity, including Adenoviridae, Asfarviridae, Herpesvirales, Polyomaviridae, and Poxviridae and several reference targets such as Lactiplantibacillus plantarum, Pseudomonas aeruginosa, Vibrio parahaemolyticus, Hepatitis B virus, and Human cytomegalovirus. 
+The crRNA-DNA library for predicting Cas12a trans-cleavage activity, including Adenoviridae, Asfarviridae, Herpesvirales, Polyomaviridae, and Poxviridae and several reference targets such as Lactiplantibacillus plantarum, Pseudomonas aeruginosa, Vibrio parahaemolyticus, Hepatitis B virus, Human cytomegalovirus, Aeromonas hydrophila, Edwardsiella tarda, Shrimp hemocyte iridescent virus, Phomopsis sp., and Botryosphaeria dothidea.
